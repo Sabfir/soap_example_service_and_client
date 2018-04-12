@@ -1,7 +1,6 @@
 # SOAP SERVER and CLIENT example
-SOAP WS (spring-boot-soap-service): https://howtodoinjava.com/spring/spring-boot/spring-boot-soap-webservice-example/
-<br/>
-SOAP CLIENT (spring-boot-soap-client): https://howtodoinjava.com/spring/spring-boot/spring-soap-client-webservicetemplate/
+##### SOAP WS (spring-boot-soap-service): https://howtodoinjava.com/spring/spring-boot/spring-boot-soap-webservice-example/
+##### SOAP CLIENT (spring-boot-soap-client): https://howtodoinjava.com/spring/spring-boot/spring-soap-client-webservicetemplate/
 
 ## Technology Stack
 1. spring-boot-soap-service
